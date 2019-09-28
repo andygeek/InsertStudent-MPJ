@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/Developer-AndyGeek-blue">](https://github.com/andygeek) [<img src="https://img.shields.io/badge/IDE-Spring%20Tool%20Suite-blueviolet">](https://github.com/andygeek?utf8=%E2%9C%93&tab=repositories&q=Spring+Tool+Suite&type=&language=) [<img src="https://img.shields.io/badge/Type-Maven%20Project-orange">](https://github.com/andygeek?utf8=%E2%9C%93&tab=repositories&q=Maven+Project&type=&language=) [<img src="https://img.shields.io/badge/Language-Java-brightgreen">](https://github.com/andygeek?utf8=%E2%9C%93&tab=repositories&q=&type=&language=java)
 
-Insert Student is a very simple Maven project that was developed to practice in JavaEE, Hibernet and Spring Tool Suite.
+Insert Student is a very simple **Maven project** that was developed to practice in **JavaEE**, **Hibernete** and **Spring Tool Suite**.
 
 <div align="center"><img src="https://raw.githubusercontent.com/andygeek/InsertStudent-MPJ/master/demo.gif" width="750" height="450" align="middle"/></div>
 
