@@ -6,7 +6,7 @@ Insert Student is a very simple Maven project that was developed to practice in 
 
 <div align="center"><img src="https://raw.githubusercontent.com/andygeek/InsertStudent-MPJ/master/demo.gif" width="750" height="450" align="middle"/></div>
 
-### To execute you need
+## To execute you need
 
 Create a database with the following script
 
